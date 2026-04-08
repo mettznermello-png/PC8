@@ -191,3 +191,25 @@ inicio
       b <- c
    fimpara
 fimalgoritmo
+```bash
+4º LISTA
+```
+
+
+Início
+   i ← 3
+
+   Enquanto i <= 30 faça
+      Escreva(i)
+      i ← i + 3
+   FimEnquanto
+fimalgoritmo
+
+Início
+   i ← 2
+
+   Enquanto i <= 20 faça
+      Escreva(i)
+      i ← i + 2
+   FimEnquanto
+fimalgoritmo
